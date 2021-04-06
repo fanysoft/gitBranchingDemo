@@ -26,7 +26,7 @@ public class MainActivity extends AppCompatActivity {
         edittext = findViewById(R.id.editText);
         // step 1 - MASTER - empty android project
         // step 2 - branch 1 - add MVVM
-        // step 3 - merge branch 1 to MASTER
+        // step 3 - merge branch 1 to MASTER - done
 
 
         // https://developer.android.com/reference/androidx/lifecycle/ViewModel
